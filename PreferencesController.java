@@ -143,4 +143,9 @@ public class PreferencesController implements IModalWindow {
         modalResult = true;
         close();
     }
-}
+    
+	private void close2(){
+        stage.close();
+    }
+
+	}
