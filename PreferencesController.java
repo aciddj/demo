@@ -155,6 +155,6 @@ public class PreferencesController implements IModalWindow {
     }
 
 	private void close4(){
-        stage.close();
+        stage2.close();
     }
 	}
