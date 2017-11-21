@@ -1,4 +1,4 @@
-package migrator;
+package migrator123;
 
 import javafx.fxml.FXML;
 import javafx.scene.Scene;
